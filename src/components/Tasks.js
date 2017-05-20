@@ -10,12 +10,11 @@ class Tasks extends Component {
           <header className="w3-container w3-blue">
             <h1>Tasks</h1>
           </header>
-          <div className="w3-container">
-            <p>Lorem ipsum...</p>
-          </div>
-          <footer className="w3-container w3-light-gray">
-            <h5>Footer</h5>
-          </footer>
+          <ul className="w3-ul">
+            <li className="w3-display-container">
+              <input className="w3-input w3-border-0" type="text" />
+            </li>
+          </ul>
         </div>
       </div>
     );

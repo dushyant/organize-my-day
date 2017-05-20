@@ -12,7 +12,7 @@ class App extends Component {
   render() {
     return (
       <div className="App w3-myfont">
-        <header className="w3-container w3-blue w3-center App-header ">
+        <header className="w3-container w3-indigo w3-center App-header ">
           <h1 className="w3-margin w3-xxxlarge">
             <i className="fa fa-clock-o"></i>
             Organize My Day
